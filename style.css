@@ -1,0 +1,75 @@
+/* Kindly Don't Edit If You Don't Know Anything,,, A fatherless skidder...haha*/
+body {
+  background-color: black;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #222;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.profile-pic {
+  margin-right: 20px;
+}
+
+.profile-pic img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.about-me {
+  flex: 1;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+a {
+  display: block;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.email {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.email p {
+  margin-bottom: 10px;
+}
+
+.email a {
+  color: #fff;
+  text-decoration: underline;
+}
